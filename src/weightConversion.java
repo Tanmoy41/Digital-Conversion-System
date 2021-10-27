@@ -1,6 +1,3 @@
-import java.util.*;
-import java.text.DecimalFormat;
-
 class Weight {
     Scanner sc = new Scanner(System.in);
     double weight, kilogram, gram, miligram, pound, ton, ounce;
